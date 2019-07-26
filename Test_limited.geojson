@@ -1,0 +1,46 @@
+{
+  "features": [
+	    {
+      "type": "Feature",
+      "properties": {
+        "level": 1,
+        "name": "COS Polygon",
+        "height": 40,
+        "base_height": 0,
+        "color": "purple"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -105.076275,
+          39.412532
+            ],
+            [
+              -104.592831,
+          39.361581
+            ],
+            [
+              -104.686223,
+          39.097741
+            ],
+            [
+              -105.015844,
+          38.965449
+            ],
+            [
+              -105.26306, 39.1787
+            ],
+            [
+              -105.076275,
+          39.412532
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "TEST1"
+    }
+  ],
+  "type": "FeatureCollection"
+}
