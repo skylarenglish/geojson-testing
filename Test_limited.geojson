@@ -40,6 +40,47 @@
         "type": "Polygon"
       },
       "id": "TEST1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "level": 1,
+        "name": "Additional Polygon",
+        "height": 400,
+        "base_height": 0,
+        "color": "green"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -105.076275,
+          39.412532
+            ],
+            [
+              -104.592831,
+          39.761581
+            ],
+            [
+              -104.686223,
+          39.997741
+            ],
+            [
+              -105.015844,
+          40.965449
+            ],
+            [
+              -105.26306, 40.1787
+            ],
+            [
+              -105.076275,
+          39.412532
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "TEST1"
     }
   ],
   "type": "FeatureCollection"
